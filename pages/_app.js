@@ -1,4 +1,4 @@
-import '../styles/globals.css'
+import '../styles/teamdh.css'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
