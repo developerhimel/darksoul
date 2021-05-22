@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Team DH</title>
+        <title>Dark Soul</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Navbar />
