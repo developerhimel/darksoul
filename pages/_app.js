@@ -1,4 +1,5 @@
-import '../styles/teamdh.css'
+import '../styles/teamdh.css';
+
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
