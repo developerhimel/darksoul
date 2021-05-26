@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Cormorant
+Author: Catharsis Fonts
+Url: http://www.fontsquirrel.com/fonts/cormorant
+
+Font: Scriptina Pro
+Author: CheapProFonts
+Url: http://www.fontsquirrel.com/fonts/scriptina-pro
