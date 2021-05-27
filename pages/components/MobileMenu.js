@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function MobileMenu() {
   return (
-    <div className="lg:hidden fixed z-50 bottom-0 bg-gray-800 container py-3 px-2 flex justify-around w-full max-w-full">
+    <div className="lg:hidden fixed z-50 bottom-0 bg-gray-800 container py-4 px-2 flex justify-around w-full max-w-full">
       <Link href="./">
         <a href="./">
           <svg
